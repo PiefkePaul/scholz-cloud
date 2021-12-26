@@ -1,0 +1,35 @@
+[neuer Fragebogen]
+Welche Sprache sprach Jesus?
+Hebräisch
+Griechisch
+Assyrisch
+Aramäisch
+4
+[neuer Fragebogen]
+Was ist die meistverkaufte Konsole aller Zeiten?
+Game Boy
+Playstation 2
+Nintendo DS
+Nintendo Wii
+2
+[neuer Fragebogen]
+Bei welchem Spiel geht es um Autofussball?
+Stardew Valley
+Rocket League
+Dropzone
+FIFA 18
+2
+[neuer Fragebogen]
+Was ist das meistverkaufte Spiel aller Zeiten?
+GTA V
+Wii Sports
+Minecraft
+Tetris
+4
+[neuer Fragebogen]
+Wie heißt eines der beliebtesten Strategiespiele?
+Fortnite
+League of Legends
+Age of Empires
+Half-Life 2
+3

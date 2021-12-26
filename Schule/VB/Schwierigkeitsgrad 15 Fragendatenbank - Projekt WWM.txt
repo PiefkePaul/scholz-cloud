@@ -1,0 +1,35 @@
+[neuer Fragebogen]
+Was ist ein Teil des Gehirns?
+Temporalschwamm
+Temporallappen
+Tempolumpen
+Geschwindigkeitslappen
+2
+[neuer Fragebogen]
+Aus welcher Hexerschule stammt Geralt aus dem Spiel "Witcher"?
+Bär
+Wolf
+Katze
+Greifen
+2
+[neuer Fragebogen]
+Wie heißt der Held aus den "Gothic" Spielen?
+Uruk
+Milten
+Er hat keinen Namen
+Diego
+3
+[neuer Fragebogen]
+Was funktioniert wie ein Bass- oder Höhenregler?
+PDF-Assistent
+Firewall
+Amplifier
+Equalizer
+4
+[neuer Fragebogen]
+Wie kann man einen Konsolen-Umschalter noch nennen?
+CVM-Modem
+LVM-Bus
+BVM-Switch
+KVM-Switch
+4
